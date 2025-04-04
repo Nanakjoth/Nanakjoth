@@ -1,5 +1,5 @@
 # 🔐 Nanakjoth 
-| Security Engineer × Developer(AI Assisted) × Data Science Student |
+| Network Security Engineer × Developer(AI Assisted) × Data Science Student |
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Network+Security+Engineer;AI-Assisted+Developer;Data+Science+Student" alt="Professional Titles">
