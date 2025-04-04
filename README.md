@@ -1,4 +1,5 @@
-# 🔐 Nanakjoth | Security Engineer × Developer × Data Science Scholar
+# 🔐 Nanakjoth 
+| Security Engineer × Developer(AI Assisted) × Data Science Student |
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Network+Security+Engineer;AI-Assisted+Developer;Data+Science+Student" alt="Professional Titles">
@@ -8,23 +9,20 @@
 
 ## 🛡️ Professional Identity
 
-### **Network Security Engineer** 
+### **Network Engineer** 
 `Currently Working`
 - Enterprise network protection
-- Vulnerability assessment & penetration testing
-- Security infrastructure implementation
+- Security infrastructure Management
 
 ### **Part-Time Developer** 
 `AI-Enhanced Workflows`
-- Building tools that bridge security and development
 - Exploring human-AI collaborative coding
-- Open source contributions
+- Open source contributions (Trying to be)
 
 ### **Data Science Student** 
-`B.Tech Ongoing`
 - Machine learning fundamentals
-- Security analytics specialization
-- Big data processing
+- Deep Learning Concepts
+
 
 ---
 
@@ -37,7 +35,7 @@ Wireshark | Nmap | Metasploit | Burp Suite | Kali Linux
 
 ### **Development Stack**
 ```
-Python | JavaScript | SQL | Bash | Git
+Python | SQL | Bash | Git
 ```
 
 ### **Data Science**
@@ -47,7 +45,7 @@ Pandas | NumPy | Scikit-learn | TensorFlow | Jupyter
 
 ### **AI Collaboration**
 ```
-GitHub Copilot | ChatGPT | AI-Assisted Code Review
+| WindSurf| ChatGPT | TRAE AI | AI-Assisted Code Review
 ```
 
 ---
@@ -58,9 +56,9 @@ GitHub Copilot | ChatGPT | AI-Assisted Code Review
 - Cloud Security Architectures
 
 ## 🔭 Future Goals
-- Develop AI-powered security tools
+- Develop AI-powered tools
 - Publish research on human-AI coding synergy
-- Contribute to open-source security projects
+- Contribute to open-source projects
 
 ---
 
