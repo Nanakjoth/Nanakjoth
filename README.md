@@ -33,11 +33,6 @@
 Wireshark | Nmap | Metasploit | Burp Suite | Kali Linux
 ```
 
-### **Development Stack**
-```
-Python | SQL | Bash | Git
-```
-
 ### **Data Science**
 ```
 Pandas | NumPy | Scikit-learn | TensorFlow | Jupyter
@@ -45,7 +40,7 @@ Pandas | NumPy | Scikit-learn | TensorFlow | Jupyter
 
 ### **AI Collaboration**
 ```
-| WindSurf| ChatGPT | TRAE AI | AI-Assisted Code Review
+| WindSurf| ChatGPT | TRAE AI |
 ```
 
 ---
