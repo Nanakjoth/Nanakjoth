@@ -14,15 +14,9 @@
 - Enterprise network protection
 - Security infrastructure Management
 
-### **Part-Time Developer** 
-`AI-Enhanced Workflows`
-- Exploring human-AI collaborative coding
-- Open source contributions (Trying to be)
-
 ### **Data Science Student** 
 - Machine learning fundamentals
 - Deep Learning Concepts
-
 
 ---
 
@@ -37,12 +31,6 @@ Wireshark | Nmap | Metasploit | Burp Suite | Kali Linux
 ```
 Pandas | NumPy | Scikit-learn | TensorFlow | Jupyter
 ```
-
-### **AI Collaboration**
-```
-| WindSurf| ChatGPT | TRAE AI |
-```
-
 ---
 
 ## 📚 Currently Learning
