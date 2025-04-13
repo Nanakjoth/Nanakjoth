@@ -29,7 +29,7 @@ Wireshark | Nmap | Metasploit | Burp Suite | Kali Linux
 
 ### **Data Science**
 ```
-Pandas | NumPy | Scikit-learn | TensorFlow | Jupyter
+Pandas | NumPy | Scikit-learn | TensorFlow | Jupyter | Google Colab |
 ```
 ---
 
